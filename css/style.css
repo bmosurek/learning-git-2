@@ -1,0 +1,22 @@
+body {
+    background: black;
+        color: white;
+}
+
+section {
+    margin: auto;
+    padding: 10%;
+}
+
+h3 {
+    font-size: medium;
+    font-style: italic;
+}
+
+.chorus {
+    color:cornflowerblue;
+    }
+
+.verse {
+    color:burlywood;
+}
